@@ -1,0 +1,10 @@
+name: StatTrack
+author: Askingg
+version: 1.0
+main: me.askingg.stattrack.Main
+description: Ore Tracker Plugin
+
+commands:
+  StatTrack:
+   description: Base Command
+   aliases: [st]
